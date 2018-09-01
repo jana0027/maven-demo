@@ -5,6 +5,6 @@ This repository contains two small Maven projects intended as examples of how a 
 Added Poll SCM for 3 mts cmd:H/03 * * * *
 t1
 
-
+read me
 
 cp -r "C:\Program Files\Jenkins\workspace\maven_pipeline_1\multi-module\webapp\target\webapp.war" "C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps"
